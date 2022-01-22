@@ -3,7 +3,7 @@
 }
 #contact{height: 250px; background-color:darkblue;}
 #projects{ height: 600px; background-color:white;}
-#aboutheading{width:10%}
+.contentheading{width:10%}
 #aboutcontent{width:60%;}
 .header{ font-weight: 470;}
 .bggradient {  background: linear-gradient(45deg,rgb(245, 52, 4), rgb(232, 248, 2));
@@ -11,4 +11,4 @@
     background-clip: text;
     -webkit-text-fill-color: transparent;  }
 .icon1{color: white; font-size: 50px;}
-.icon{ width: 70px;}
+.icon{ width:70px;}
